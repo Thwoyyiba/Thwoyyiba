@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thwoyyiba Nasreen</h1>
-<h3 align="center">A Passionate Data Analyst From India</h3>
+<h3 align="center">A Passionate Data Sientist From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thwoyyiba&label=Profile%20views&color=0e75b6&style=flat" alt="thwoyyiba" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thwoyyiba" alt="thwoyyiba" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analyst Project**
+- 🔭 I’m currently working on **Data Science Project**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **MS Excel, python, pandas, numpy, seaborn, matplotlib**
+- 👯 I’m looking to collaborate on ** Machine Learning, Deep Learning ,Generative AI, Web Scraping,Deployment,MS Excel, python, pandas, numpy, seaborn, matplotlib**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
